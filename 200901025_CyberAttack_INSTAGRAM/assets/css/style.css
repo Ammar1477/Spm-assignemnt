@@ -822,12 +822,13 @@ footer .wrapper {
     background: var(--background-secondary);
     color: var(--white);
     width: 52px;
+    border-radius: 26px;
     height: 26px;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
-    border-radius: 100px;
+    
   }
 
   .theme-btn-desktop.light {
